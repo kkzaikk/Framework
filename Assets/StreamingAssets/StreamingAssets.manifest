@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 7fac76cb837e70f48bb7559b41c9f5e8.assetbundles
+      Dependencies: {}
+    Info_1:
+      Name: 350988fa2d608bc4baeaf6c5f3e61419.assetbundles
+      Dependencies: {}
+    Info_2:
+      Name: 16a9cad73714dae498349682341099b6.assetbundles
+      Dependencies: {}
+    Info_3:
+      Name: 44765d19c86bb254e9b1b40fef87b5cb.assetbundles
+      Dependencies:
+        Dependency_0: 16a9cad73714dae498349682341099b6.assetbundles
+        Dependency_1: 94f6a3c6ae269814787450d8b57e8221.assetbundles
+        Dependency_2: da2b04efe53de2648bb9d1428375e0e5.assetbundles
+    Info_4:
+      Name: 50bdc6ee08459444c861349f6cc3fbbb.assetbundles
+      Dependencies: {}
+    Info_5:
+      Name: 800e4b9186df0bc4e9a996fb893039bc.assetbundles
+      Dependencies: {}
+    Info_6:
+      Name: c80286c0971a51843aa86ec94e1bcefc.assetbundles
+      Dependencies:
+        Dependency_0: 16a9cad73714dae498349682341099b6.assetbundles
+        Dependency_1: 94f6a3c6ae269814787450d8b57e8221.assetbundles
+        Dependency_2: da2b04efe53de2648bb9d1428375e0e5.assetbundles
+    Info_7:
+      Name: d388e6d9c0799af4a849c08007487956.assetbundles
+      Dependencies: {}
+    Info_8:
+      Name: c312d4c6600e21e4e8a7839dbc4d68fe.assetbundles
+      Dependencies: {}
+    Info_9:
+      Name: 03323ee965b2ac54189b80425c8da1fe.assetbundles
+      Dependencies: {}
+    Info_10:
+      Name: ab04c5e6f56e0a344b6f997ab494c181.assetbundles
+      Dependencies: {}
+    Info_11:
+      Name: f08cb5818d7e0ec4eb3170efb120f4ed.assetbundles
+      Dependencies: {}
+    Info_12:
+      Name: 35df605647b41e243a76c9e82d050489.assetbundles
+      Dependencies: {}
+    Info_13:
+      Name: 425c0c2fbd6096049b1efbe51a5738f5.assetbundles
+      Dependencies: {}
+    Info_14:
+      Name: 42f7ccdb675fc83479c0159b29d73926.assetbundles
+      Dependencies: {}
+    Info_15:
+      Name: 4afaa4f0a84ec3f47ac1ebd6f91bf6e5.assetbundles
+      Dependencies: {}
+    Info_16:
+      Name: 77337ca864fde374c93768aa7b6a719a.assetbundles
+      Dependencies: {}
+    Info_17:
+      Name: 94f6a3c6ae269814787450d8b57e8221.assetbundles
+      Dependencies: {}
+    Info_18:
+      Name: 9b764a13e94c99545b63b740bbf315fa.assetbundles
+      Dependencies: {}
+    Info_19:
+      Name: a7e1bb2fd3559eb48b6e1e2d1567cce2.assetbundles
+      Dependencies: {}
+    Info_20:
+      Name: b437bad20a4ba6645b1643e7903fe840.assetbundles
+      Dependencies: {}
+    Info_21:
+      Name: c4f2025680ed4344684a123cb844b396.assetbundles
+      Dependencies: {}
+    Info_22:
+      Name: ca7cc1bf035129f47b68b30789ce69c5.assetbundles
+      Dependencies: {}
+    Info_23:
+      Name: d64996d150c82704db9baae06eecc3eb.assetbundles
+      Dependencies: {}
+    Info_24:
+      Name: da2b04efe53de2648bb9d1428375e0e5.assetbundles
+      Dependencies: {}
+    Info_25:
+      Name: ec635aab53e95cd4a9bdfca180740233.assetbundles
+      Dependencies: {}
+    Info_26:
+      Name: f171bb3be94de20429912d88c87ce3e8.assetbundles
+      Dependencies: {}

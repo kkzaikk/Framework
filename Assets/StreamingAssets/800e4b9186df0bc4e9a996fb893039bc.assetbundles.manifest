@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3658708233
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ff677f389adccafaa3216d6fda023e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1f40038b9d5d8d82a496d5f62d54bd4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/UI/Texture/TTT/y2.prefab
+Dependencies: []

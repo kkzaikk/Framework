@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1212944762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bdacda3a8ab86347409e8b9ba60a0f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/UI/B4.txt
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2388897974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a16bc4c7afb5fb84be5de247651f2234
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Font/A4.txt
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2436765089
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e59c4db7c417e7495d8eb9a891738055
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87d9bc88502f242831024e1a32027ff7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/ResourcesLib/UI/UISource/A/1100093.png
+- Assets/Resources/UI/Atlas/A/AAtlas.prefab
+Dependencies: []

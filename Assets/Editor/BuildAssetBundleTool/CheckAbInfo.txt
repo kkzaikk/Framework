@@ -1,0 +1,7 @@
+﻿--ab
+c80286c0971a51843aa86ec94e1bcefc
+
+77337ca864fde374c93768aa7b6a719a
+
+--path
+Resources/LuaScript/K1.txt
