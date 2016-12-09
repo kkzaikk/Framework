@@ -45,11 +45,32 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Asset\Load\AssetManager.cs" />
-     <Compile Include="Assets\Scripts\Asset\Load\PathConstData.cs" />
-     <Compile Include="Assets\Scripts\Asset\Load\RefreshFileInfo.cs" />
+     <Compile Include="Assets\Scripts\ConstDefine\AppConst.cs" />
+     <Compile Include="Assets\Scripts\ConstDefine\ManagerName.cs" />
+     <Compile Include="Assets\Scripts\ConstDefine\NotiConst.cs" />
+     <Compile Include="Assets\Scripts\ConstDefine\PathConst.cs" />
+     <Compile Include="Assets\Scripts\Controller\Command\StartUpCommand.cs" />
+     <Compile Include="Assets\Scripts\Framework\AppFacade.cs" />
+     <Compile Include="Assets\Scripts\Framework\Core\Base.cs" />
+     <Compile Include="Assets\Scripts\Framework\Core\Controller.cs" />
+     <Compile Include="Assets\Scripts\Framework\Core\Facade.cs" />
+     <Compile Include="Assets\Scripts\Framework\Core\Manager.cs" />
+     <Compile Include="Assets\Scripts\Framework\Core\Message.cs" />
+     <Compile Include="Assets\Scripts\Framework\Core\View.cs" />
+     <Compile Include="Assets\Scripts\Framework\Interfaces\ICommand.cs" />
+     <Compile Include="Assets\Scripts\Framework\Interfaces\IController.cs" />
+     <Compile Include="Assets\Scripts\Framework\Interfaces\IManager.cs" />
+     <Compile Include="Assets\Scripts\Framework\Interfaces\IMessage.cs" />
+     <Compile Include="Assets\Scripts\Framework\Interfaces\IView.cs" />
+     <Compile Include="Assets\Scripts\Load\AssetUtils.cs" />
+     <Compile Include="Assets\Scripts\Load\RefreshFileInfo.cs" />
+     <Compile Include="Assets\Scripts\Main.cs" />
+     <Compile Include="Assets\Scripts\Manager\AssetManager.cs" />
+     <Compile Include="Assets\Scripts\Manager\GameManager.cs" />
+     <Compile Include="Assets\Scripts\Manager\GameObjectManager.cs" />
+     <Compile Include="Assets\Scripts\Manager\Interface\ITimerBehaviour.cs" />
      <Compile Include="Assets\Scripts\Test.cs" />
-     <Compile Include="Assets\Test2.cs" />
+     <Compile Include="Assets\Scripts\View\AppView.cs" />
      <None Include="Assets\ResourcesLib\Resources\VersionTime.txt" />
      <None Include="Assets\Resources\GameData\A\cc.txt" />
      <None Include="Assets\Resources\GameData\B\cc1.txt" />

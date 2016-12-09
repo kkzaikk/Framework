@@ -16,8 +16,8 @@ public class Test : MonoBehaviour
             this.OnClick(this.gameObject);
         });
 
-        AssetManager mgr = testObj.GetComponent<AssetManager>();
-        mgr.Initialize("StreamingAssets", initOK);
+        //AssetManager mgr = testObj.GetComponent<AssetManager>();
+        //mgr.Initialize("StreamingAssets", initOK);
 	
 	}
 	
@@ -29,21 +29,23 @@ public class Test : MonoBehaviour
     void initOK()
     {
         Debug.Log("开始加载");
-        AssetManager mgr = testObj.GetComponent<AssetManager>();
-        //mgr.LoadFromFileAsync("UI/test1", Back);
-
-        GameObject.Instantiate(mgr.LoadFromFile("UI/test1"));
-        
     }
 
     void OnClick(GameObject go)
     {
         Debug.Log("xxxxxxxxxxxxxxxx");
-        GameObject.DestroyImmediate(obj);
 
-        AssetManager mgr = testObj.GetComponent<AssetManager>();
+        GameObjectManager mgr = AppFacade.Instance.GetManager<GameObjectManager>(ManagerName.Object);
+        mgr.Instantiate("UI/test1");
 
-        mgr.UnloadAssetBundle("UI/test1", true);
+        //mgr.InstantiateAsync("UI/test1", delegate(GameObject obj)
+        //{
+        //    obj.name = "啥地方";
+        //});
+
+
+
+
     }
 
     int k = 0;
